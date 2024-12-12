@@ -10,6 +10,8 @@
 ### XEP-0124: Bidirectional-streams Over Synchronous HTTP (BOSH) **XML**
 [https://xmpp.org/extensions/xep-0124.xml]
 
+  ## ***
+
 #### RFC 6120 XMPP Core March 2011
 https://datatracker.ietf.org/doc/html/rfc6120
 
