@@ -1,5 +1,7 @@
-[https://xmpp.org/extensions/xep-0124.html#session]
-[https://xmpp.org/extensions/attic/xep-0124-1.5.html#preconditions-xmpp]
+
+- [https://xmpp.org/extensions/xep-0124.html#session]
+
+- [https://xmpp.org/extensions/attic/xep-0124-1.5.html#preconditions-xmpp]
 
 ### ------------------------------------------------------------------------------------------------------------------------
 ## Example 1.
